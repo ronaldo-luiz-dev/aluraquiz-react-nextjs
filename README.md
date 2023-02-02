@@ -1,5 +1,5 @@
 ## ★ Name of the project
-Alura Quiz with React + NextJs
+Quiz app with React + NextJs
 
 ## ⊕ About this project
 A Next Js technology question and answer challenge.
